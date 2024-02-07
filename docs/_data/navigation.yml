@@ -1,0 +1,13 @@
+main:
+  - title: "Donate"
+    url: donate
+  - title: "Our Halls"
+    url: /halls/
+  - title: "News & Events"
+    url: /categories/
+  - title: "Contact us"
+    url: /tags/
+  - title: "Members"
+    url: /page-archive/
+  - title: "Links"
+    url: /collection-archive/
